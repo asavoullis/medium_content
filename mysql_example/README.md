@@ -137,13 +137,3 @@ Feel free to submit issues, fork the repository, and make pull requests.
 ## Contact
 
 For any questions or suggestions, please contact [Charilaos Savoullis](mailto:your-email@example.com).
-
-```
-
-Feel free to adjust the content and structure as needed to better suit your project.
-
-**Suggestions for Next Steps:**
-
-**a.** Add unit tests for each function in the `wordsdb.py` script to ensure robustness.
-**b.** Improve error handling to cover more edge cases and unexpected scenarios.
-```
