@@ -2,6 +2,12 @@
 
 This repository contains a Python script to interact with a MySQL database. The script demonstrates basic operations such as connecting to the database, creating tables, inserting data, fetching data, updating data, and more.
 
+## Medium Articles:
+
+1. [Integrating Python with MySQL: Part 1](url1)
+2. [Integrating Python with MySQL: Part 2](url2)
+3. [Medium Article 3](url3)
+
 ## Project Structure
 
 ```plaintext
@@ -30,7 +36,7 @@ This repository contains a Python script to interact with a MySQL database. The 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/asavoullis/medium_content/mysql_example.git
+   git clone https://github.com/asavoullis/medium_content.git
    cd mysql_example
    ```
 
@@ -136,4 +142,11 @@ Feel free to submit issues, fork the repository, and make pull requests.
 
 ## Contact
 
-For any questions or suggestions, please contact [Charilaos Savoullis](mailto:your-email@example.com).
+For any questions or more information, please contact me on medium [Charilaos Savoullis](https://medium.com/@casavoullis).
+
+## Additional Resources
+
+For more information, check out these helpful articles on Medium:
+
+1. The Ultimate Guide to Writing a Great README.md for Your Project by kc-clintone
+   - This comprehensive guide covers the structure, content, code snippets, and useful VSCode extensions for creating an outstanding README.md file.
