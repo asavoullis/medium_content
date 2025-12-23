@@ -4,8 +4,8 @@ This repository contains scripts that demonstrate various functionalities of the
 
 ## Medium Articles:
 
-1. [Medium Article 1](url1)
-2. [Medium Article 2](url2)
+1. [Python sys Module: Beginner Guide](url1)
+2. [Master the Python sys Module: Essential Guide](url2)
 3. [Medium Article 3](url3)
 
 ## Project Structure
@@ -19,8 +19,8 @@ This repository contains scripts that demonstrate various functionalities of the
 
 ## Files
 
-- `basics.py`: Covers the basic features of the `sys` module, including command-line arguments, standard input/output redirection, and checking the Python version.
-- `further_examples.py`: Explores more advanced features of the `sys` module, such as managing recursion limits, measuring object sizes, inspecting imported modules, advanced error handling, and customizing standard streams.
+- `basics.py`: **Python sys Module: Beginner Guide** - Covers the basic features of the `sys` module, including command-line arguments, standard input/output redirection, and checking the Python version.
+- `further_examples.py`: **Master the Python sys Module: Essential Guide** - Explores more advanced features of the `sys` module, such as managing recursion limits, measuring object sizes, inspecting imported modules, advanced error handling, and customizing standard streams.
 
 ## Prerequisites
 
@@ -31,7 +31,7 @@ This repository contains scripts that demonstrate various functionalities of the
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/asavoullis/medium_content/sys_module.git
+   git clone https://github.com/asavoullis/medium_content.git
    cd sys_module
    ```
 

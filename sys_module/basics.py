@@ -11,7 +11,7 @@ print("Arguments:", sys.argv[1:]) # Ouput: ['hello', 'there']
 # prints the first argument passed after the script name
 print(sys.argv[1]) # Output: hello
 
-
+# Check if at least one argument is provided
 if len(sys.argv) < 2:
     print("No arguments provided. Exiting.")
     sys.exit()
@@ -27,3 +27,13 @@ with open('output.txt', 'w') as f:
 # Restore the original standard output
 sys.stdout = original_stdout
 print("This will be printed on the console.")
+
+# Print the Python version
+print("Python version:", sys.version)
+
+
+# Add a new directory to the module search path
+sys.path.append('/path/to/directory')
+
+
+print("Updated module search path:", sys.path)
